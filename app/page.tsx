@@ -3,7 +3,8 @@ import { ThreeItemGrid } from 'components/grid/three-items';
 import Footer from 'components/layout/footer';
 
 export const metadata = {
-  description: 'High-performance ecommerce store built with Next.js, Vercel, and Shopify.',
+  description:
+    'Shop the latest products from Paradice Wrld, a brand that specializes in unique and high-quality clothing.',
   openGraph: {
     type: 'website'
   }
